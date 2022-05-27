@@ -201,6 +201,10 @@ nav ul li:hover::after {
     justify-content: space-around;
     background: rgba(119, 119, 119, 0.596);
 }
+.cert img {
+    display: block;
+    height: 40vh;
+}
 
 footer {
     background-color: black;
